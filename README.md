@@ -12,7 +12,7 @@
 
 ## 👋🏼 SOBRE MI
 
-Hola! soy Cristian Vega, un Analista de datos y ad portas de ser Científico de Datos (ambos certificados en Coderhouse). Mi especialidad radica en el uso de Python y sus bibliotecas, como Pandas, NumPy, Scikit-learn, Seaborn, entre otras, permitiendome realizar un análisis de datos profundo. Tengo habilidades avanzadas en SQL y Power BI, utilizando estas herramientas para extraer ideas valiosas a partir de datos. Tambien poseo habilidades avanzadas en el uso de Microsoft Excel, lo que me capacita para crear macros que contribuyen a mejorar la eficiencia y rendimiento en este software.
+Hola! soy Cristian Vega, un Analista de datos y Científico de Datos (ambos certificados en Coderhouse). Mi especialidad radica en el uso de Python y sus bibliotecas, como Pandas, NumPy, Scikit-learn, Seaborn, entre otras, permitiendome realizar un análisis de datos profundo. Tengo habilidades avanzadas en SQL y Power BI, utilizando estas herramientas para extraer ideas valiosas a partir de datos. Tambien poseo habilidades avanzadas en el uso de Microsoft Excel, lo que me capacita para crear macros que contribuyen a mejorar la eficiencia y rendimiento en este software.
 
 Además de mis habilidades técnicas, poseo una certificación B1 en inglés, lo que me permite comunicarme eficazmente en otro tipo de ambiente.
 
